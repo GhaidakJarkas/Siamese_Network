@@ -1,5 +1,5 @@
 # Siamese_Network
-Siamese network on Fashion mnist dataset 
+Siamese network using Tensorflow 
 
 # Siamese network concept
 
@@ -8,7 +8,7 @@ It is possible to build an architecture that is functionally similar to a siames
 
 ## Objectives
 
-1- Building a siamese network and train it on The fashion mnist dataset using Functional API from Tensorflow.
+1- Building a siamese network to measure the similarity between The fashion mnist dataset categories.
 
 2- Modifying the data set to fit the problem.
 
